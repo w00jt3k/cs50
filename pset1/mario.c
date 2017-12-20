@@ -7,7 +7,6 @@ int main(void) {
 
     // Prompting user for height of the pyramid, where
     // it has to be positive number less than 23 (including)
-
     do {
         printf("Height: ");
         h = get_int();
@@ -29,15 +28,3 @@ int main(void) {
         printf("\n");
     }
 }
-
-/* h = 4
-
-xxx**
-
-xx***
-
-x****
-
-*****
-
-*/
