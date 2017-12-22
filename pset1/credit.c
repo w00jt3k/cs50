@@ -3,7 +3,7 @@
 
 int main(void) {
 
-    // Declare long long type variable "x"
+    // Declare needed variables
     long long x, temp, tempx2;
     int sum, sumtemp, sumtempx2;
 
