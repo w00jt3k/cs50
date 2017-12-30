@@ -46,7 +46,7 @@ char switchLetters(char letter, int key) {
         return letter;
     }
 
-    // Change ASCII index for alphabewtical index
+    // Change ASCII index for alphabetical index
     int alphIndex = isupper(letter) ? 65 : 97;
 
     // Calculate Caesar's alhorithm
